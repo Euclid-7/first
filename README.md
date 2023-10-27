@@ -1,2 +1,2 @@
 # first
-This is a first repository
+上田先生のコードを参考にしました。
